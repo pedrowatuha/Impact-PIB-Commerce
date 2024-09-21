@@ -1,0 +1,1 @@
+Code for a primordial gravitational model for trade flows in Brazil for an attempt to predict the drop with the COVID-19 crisis. Results are presented in the paper O impacto do coronavírus sobre o comércio internacional brasileiro e a globalização multilateral.
